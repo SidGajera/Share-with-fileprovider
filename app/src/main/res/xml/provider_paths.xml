@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-cache-path
+        name="external_cache_files"
+        path="." />
+    <external-path
+        name="my_images"
+        path="Android/data/com.example.shareimagedemo/files/Pictures" />
+    <external-path
+        name="my_images"
+        path="Android/data/com.example.shareimagedemo/files/Pictures/" />
+    <root-path
+        name="root"
+        path="." />
+
+    <external-files-path
+        name="external_files_files"
+        path="." />
+    <external-path
+        name="external_files"
+        path="." />
+    <external-path
+        name="external_files"
+        path="document/" />
+    <files-path
+        name="internal_files"
+        path="." />
+    <cache-path
+        name="cache_files"
+        path="." />
+    <external-cache-path
+        name="my_cache"
+        path="." />
+    <external-path
+        name="external"
+        path="." />
+    <external-files-path
+        name="external_files"
+        path="Pictures/" />
+    <files-path
+        name="all_internal"
+        path="." />
+    <external-path
+        name="/storage/emulated/0"
+        path="." />
+    <external-path
+        name="all_external"
+        path="." />
+    <files-path
+        name="files"
+        path="." />
+    <external-files-path
+        name="external_files_path"
+        path="." />
+    <files-path
+        name="my_docs"
+        path="Videos/" />
+    <external-files-path
+        name="external_video_files"
+        path="Movies/" />
+    <external-files-path
+        name="my_images"
+        path="/" />
+    <files-path
+        name="my_docs"
+        path="audio/" />
+    <cache-path
+        name="sounds"
+        path="sounds/" />
+
+</paths>
